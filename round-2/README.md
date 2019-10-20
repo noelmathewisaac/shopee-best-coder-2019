@@ -47,7 +47,11 @@ Two columns required:
 
 ### **Example**
 
-[Untitled](https://www.notion.so/bf5b5712628444bf9a20e86f4bfc393c)
+
+| orderid    | is_fraud |
+| ---------- |----------|
+| 1953277092 | 0        |
+| 1952278092 | 1        |
 
 **Your submission should have 620947 rows, each with 2 columns.**
 
