@@ -64,7 +64,11 @@ A `csv` file (`utf-8` encoding) containing 2 columns:
 
 ### **Example:**
 
-[Untitled](https://www.notion.so/7035e2ff5d9e40fa90b448d062a63d1d)
+| index | groups_found  |
+| ------|:-------------:|
+| 0     | [77]          |
+| 1     | [216,217]     |
+| 2     | [216,218,221] |
 
 **Your submission should have 800000 rows, each with 2 columns.**
 
