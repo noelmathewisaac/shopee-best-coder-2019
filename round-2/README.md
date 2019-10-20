@@ -36,7 +36,7 @@ orderid: 1953543830, buyer userid: 223406364, seller userid: 193350172.
 1. User 223406364 is directly linked to user 227839480 by sharing the same device "7q1zwUrfP8+09Z+EPh+YyNYTwxhHW7wfGuIFWhRE490=".
 2. User 227839480 is directly linked to user 193350172 by sharing the same device "IkGjfHwwIGYxZ4WkM30COPKkmALyJfSSODpNTTPuMyS=".
 
-Therefore, buyer (userid: 223406364) is indirectly linked to seller (userid: 193350172).This order is a fraud order by definition.
+Therefore, buyer (userid: 223406364) is indirectly linked to seller (userid: 193350172). This order is a fraud order by definition.
 
 ## **Submit Format**
 
@@ -57,7 +57,8 @@ Two columns required:
 
 ### **Tips:**
 
-1) You are advised to run your tests on a sample of the dataset first.2) If you are unable to solve the entire problem within the time limit, create the output csv with the required number of columns and rows based on a subset of the problem first.
+1) You are advised to run your tests on a sample of the dataset first.
+2) If you are unable to solve the entire problem within the time limit, create the output csv with the required number of columns and rows based on a subset of the problem first.
 
 ### **Teams which do not make a successful submission for both rounds of the competition will not be considered for the overall ranking.**
 
