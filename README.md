@@ -1,7 +1,5 @@
 # [Undergraduate] I'm the Best Coder! Challenge 2019
 
-[](https://www.notion.so/0526d5e6d15f4453bfaed143d0b074eb#97e26f314f27454ba750f16b092ddbf7)
-
 [I'm the Best Coder! Challenge 2019 | Data Analytics Competition By Shopee](https://careers.shopee.sg/bestcoder/)
 
 ## **Team: Sudo Code**
